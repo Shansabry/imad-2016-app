@@ -8,6 +8,10 @@ body {
     text-align: center;
 }
 
+.bottom{
+     vertical-align: bottom;
+
+}
 .text-big {
     font-size: 300%;
 }
