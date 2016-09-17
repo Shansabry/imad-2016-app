@@ -5,11 +5,13 @@ body {
 }
 
 .center {
-    padding-left:200px;
+    
     text-align: center;
 }
 
 .bottom{
+    
+    padding-left:200px;
     
      vertical-align: bottom;
 
