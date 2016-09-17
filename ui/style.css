@@ -1,27 +1,49 @@
-<!doctype html>
-<html>
-    
-    <head>
-        <link href="/ui/style.css" rel="stylesheet" />
-    </head>
-    <body background="http://wallpapercave.com/wp/u8PEixm.jpg">
-        <div class="center">
-            <img src="http://a4.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTI2NTgyMzIxOTcyMjU5NDU5.jpg">
-         
-        </div>
-        <br>
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin-top: 75px;
+}
 
-        <div class="center text-big bold">
-           <strong style="color:white"> <h4 class="border" ><b>BEETHOVEN</b>-THE PIANO MASTER</h4></strong>
-        </div>
-        <div class="bottom1">
-        <h2 style="color:white" class="center">Connect us @</h2>
-        </div>
-         <div class="bottom">
-            <img src="http://i1382.photobucket.com/albums/ah248/Shansabry/flaticons_1x_zpsd1d27wrs.png?t=1474047774">
-         
-        </div>
-        <script type="text/javascript" src="/ui/main.js">
-        </script>
-    </body>
-</html>
+.center {
+    
+    text-align: center;
+}
+
+.bottom{
+    
+    padding-left:600px;
+    
+     vertical-align: bottom;
+
+}
+.bottom1{
+    
+    padding-left:500px;
+    
+     vertical-align: bottom;
+
+}
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
+.border
+{
+font-family: Verdana Bold;
+border-style:solid;
+border-color: #FFBF00;
+background-color:#000000;
+opacity:0.7;
+padding: 5px;
+padding-right: 7px;
+padding-left: 7px;
+
+} 
