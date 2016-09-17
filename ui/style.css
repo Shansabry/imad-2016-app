@@ -22,6 +22,7 @@ body {
 
 .border
 {
+  font-family: Verdana Bold;
 border-style:solid;
 border-color: #FFBF00;
 padding: 5px;
