@@ -20,7 +20,8 @@ body {
     height: 200px;
 }
 
- .boxed {
-     border: 2px  ;
-     color:#FFBF00;
-                }
+.border
+{
+border-style:solid;
+border-color:#287EC7;
+} 
