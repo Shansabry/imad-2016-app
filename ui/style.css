@@ -22,10 +22,11 @@ body {
 
 .border
 {
-  font-family: Verdana Bold;
+font-family: Verdana Bold;
 border-style:solid;
 border-color: #FFBF00;
-background-color:#FFFFFF;
+background-color:#000000;
+opacity:0.7;
 padding: 5px;
 padding-right: 7px;
 padding-left: 7px;
