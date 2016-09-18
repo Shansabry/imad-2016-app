@@ -19,9 +19,8 @@ body {
 .bottom1{
     
     padding-left:700px;
+    vertical-align:bottom;
     
-     vertical-align: bottom;
-
 }
 .text-big {
     font-size: 300%;
